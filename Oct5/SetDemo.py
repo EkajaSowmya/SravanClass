@@ -1,0 +1,17 @@
+s1 = { 'king', 7, 9, 6, 7, 9, 34.89, 'king', 90, 'King'}
+print(type(s1))
+print(s1)
+s1.add(70)
+s1.add(67)
+print(s1)
+s1.remove(9)
+print(s1)
+
+s2 = set()
+print(s2)
+s2.add(10)
+s2.add(11)
+s2.add(12)
+s2.add(13)
+s2.add(14)
+print(s2)
